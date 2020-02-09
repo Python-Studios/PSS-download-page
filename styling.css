@@ -1,0 +1,45 @@
+        #Navbar a{
+            color:rgb(51, 242, 12);
+            background:black;
+            font-family:Arial;
+            padding:10px;
+            text-decoration:none;
+            float:left;
+            position:fixed;
+        }
+        
+        #Navbar a:hover{
+            color:white;
+        }
+        
+        
+        #Header h1{
+            font-family:Arial;
+            background:Black;
+            color:white;
+            padding:25px;
+            float:left;
+            width:50%;
+        }
+        
+        #Header h2{
+            font-family:"Comic Sans Ms";
+            color:white;
+            background:black;
+            width:55%;
+            padding:5px;
+            float:right;
+        }
+        
+        body a{
+            text-decoration:none;
+            color:rgb(51, 242, 12);
+        }
+        
+        body a:hover{
+            color:white;
+        }
+        
+        body {
+            background:rgb(0, 100, 30);
+        }
