@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PSS page</title>
+    </head>
+    
+    <style>
+        #Navbar a{
+            color:rgb(51, 242, 12);
+            background:black;
+            font-family:Arial;
+            padding:10px;
+            text-decoration:none;
+            float:left;
+            position:fixed;
+        }
+        
+        #Navbar a:hover{
+            color:white;
+        }
+        
+        
+        #Header h1{
+            font-family:Arial;
+            background:Black;
+            color:white;
+            padding:25px;
+            float:center;
+            width:50%;
+        }
+        
+        #Header h2{
+            font-family:"Comic Sans Ms";
+            color:white;
+            background:black;
+            width:55%;
+            padding:5px;
+            float:right;
+        }
+        
+        body a{
+            text-decoration:none;
+            color:rgb(51, 242, 12);
+        }
+        
+        body a:hover{
+            color:white;
+        }
+        
+        body {
+            background:rgb(0, 80, 20);
+        }
+        
+        
+        
+    </style>
+       
+    <body>
+        
+        <div id = "Header">
+            
+            <h1>Python Studios Script</h1>
+            
+            <h2>Made by Python Studios Join our <a href = "https://discord.gg/AvgRPFb"target = " _blank">discord server!</a></h2>
+           
+        </div>
+        
+        <div id = "Navbar">
+                
+                <a href = "https://cdn.discordapp.com/attachments/671464159094898718/671465433878233126/PythonStudiosScript.zip" target = " _blank"><strong>Download Latest Version</strong></a>
+                
+                
+                
+        </div>
+        
+        <button onclick="window.location.href=''">View on github</button>
+        
+    </body>
+</html>
